@@ -1,0 +1,15 @@
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\bin\Debug\net6.0\MyExample001.exe
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\bin\Debug\net6.0\MyExample001.deps.json
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\bin\Debug\net6.0\MyExample001.runtimeconfig.json
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\bin\Debug\net6.0\MyExample001.dll
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\bin\Debug\net6.0\ref\MyExample001.dll
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\bin\Debug\net6.0\MyExample001.pdb
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\obj\Debug\net6.0\MyExample001.csproj.AssemblyReference.cache
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\obj\Debug\net6.0\MyExample001.GeneratedMSBuildEditorConfig.editorconfig
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\obj\Debug\net6.0\MyExample001.AssemblyInfoInputs.cache
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\obj\Debug\net6.0\MyExample001.AssemblyInfo.cs
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\obj\Debug\net6.0\MyExample001.csproj.CoreCompileInputs.cache
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\obj\Debug\net6.0\MyExample001.dll
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\obj\Debug\net6.0\ref\MyExample001.dll
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\obj\Debug\net6.0\MyExample001.pdb
+K:\YandexDisk\РАЗРАБОТЧИК\04 Знакомство с языками программир\MyExamples\MyExample001\obj\Debug\net6.0\MyExample001.genruntimeconfig.cache
